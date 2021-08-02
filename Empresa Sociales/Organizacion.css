@@ -1,0 +1,37 @@
+.part1 {
+    width: 60%;
+    margin: 2%;
+    padding: 2%;
+
+}
+
+.Misión {
+    width:500px;
+    margin:60px;
+    padding:30px;
+    background-color: darkgrey;
+    text-align:justify;
+}
+
+.Visión {
+    width:500px;
+    margin:60px;
+    padding:30px;
+    background-color: darkgrey;
+    text-align: justify;
+    nav-right: 500px;
+}
+
+.PoliC {
+    width:500px;
+    margin:60px;
+    padding:30px;
+    background-color: darkgrey;
+    text-align: justify;
+}
+
+.img.mediana {
+    width:50px;
+    height:50px;
+    
+}
